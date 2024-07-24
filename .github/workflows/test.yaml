@@ -1,4 +1,4 @@
-name: 10:00.12
+name: 10:00
 on:
   push:
     branches: main
