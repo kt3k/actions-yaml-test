@@ -1,1 +1,8 @@
 name: 10:00.12
+on:
+  push: main
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo hi
